@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a bug report to help us improving the project ♥
 title: ''
 labels: ''
 assignees: ''
@@ -8,22 +8,22 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Write a precise description of the issue, detailing it as much as possible.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Type all the steps to recreate the issue:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Precisely describe what the issue produces.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+You may add screenshots to make your descriptions clearer if you think it is relevant.
 
-**Desktop (please complete the following information):**
+**Complete these pieces of information about the desktop:**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
@@ -35,4 +35,4 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+Feel free to add any other information about the issue.
